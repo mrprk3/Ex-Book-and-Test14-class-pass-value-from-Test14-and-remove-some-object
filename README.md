@@ -1,0 +1,1 @@
+# Ex-Book-and-Test14-class-pass-value-from-Test14-and-remove-some-object
